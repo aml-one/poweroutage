@@ -13,15 +13,15 @@
 <div class="height100">
 
     <div class="cover">
-        <div class="w3-display-topright w3-animate-right w3-padding-small w3-xlarge onlineIndicator">
+        <div class="display-topright animate-right padding-small xlarge onlineIndicator">
             Online
         </div>
-        <div class="w3-display-topleft w3-animate-left w3-padding-small w3-xlarge">
+        <div class="display-topleft animate-left padding-small xlarge">
             Korthi, Andros
         </div>
 
-        <div class="w3-display-topmiddle">
-            <h1 class="w3-jumbo w3-animate-top title_message">POWER&nbsp;OUTAGES</h1>
+        <div class="display-topmiddle">
+            <h1 class="jumbo animate-top title_message">POWER&nbsp;OUTAGES</h1>
         </div>
         
         <div class="inside-cover">
@@ -46,10 +46,9 @@
             <div class="events">
                 <div class="eventList"></div>
             </div>
-            <!--div class="w3-xlarge calendarTitle">This Year</div><br /-->
         </div>
-        <div>The device started logging at: <span class="w3-text-yellow">2025-Oct-06</span></div>
-        <div>Calendar first day: <span class="w3-text-green">Oct-01</span> - Last day: <span class="w3-text-amber">Sep-30</span></div>
+        <div>The device started logging at: <span class="text-yellow">2025-Oct-06</span></div>
+        <div>Calendar first day: <span class="text-green">Oct-01</span> - Last day: <span class="text-amber">Sep-30</span></div>
         <div>AmL 2025.</div>
         
     </div>
