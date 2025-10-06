@@ -2,6 +2,13 @@
 
 ![](https://raw.githubusercontent.com/aml-one/poweroutage/refs/heads/main/webpage.png)
 
+--------
+
+A working site here: https://korthi.andros.aml.one/
+
+--------
+
+
 ### What you need:
 - Raspberry Pi
 - a relay (preferably low power + power brick)
