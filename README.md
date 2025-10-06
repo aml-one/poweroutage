@@ -1,5 +1,7 @@
 # Power Outage Monitor with Raspberry Pi
 
+![](https://raw.githubusercontent.com/aml-one/poweroutage/refs/heads/main/webpage.jpg)
+
 ### What you need:
 - Raspberry Pi
 - a relay (preferably low power + power brick)
@@ -56,3 +58,4 @@ Connect the relay power brick to an outlet which will loose power during power o
 
 ![](https://raw.githubusercontent.com/aml-one/poweroutage/refs/heads/main/relay.png)
 
+![](https://raw.githubusercontent.com/aml-one/poweroutage/refs/heads/main/final.png)
